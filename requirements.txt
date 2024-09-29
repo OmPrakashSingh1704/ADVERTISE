@@ -1,0 +1,13 @@
+imageio[ffmpeg]
+controlnet_aux
+sentencepiece
+mediapipe
+spaces
+torch==2.1.0
+torchvision==0.16.0
+xformers==0.0.22.post7
+peft==0.9.0
+gradio
+accelerate
+transformers==4.42.4
+git+https://github.com/Gothos/diffusers.git@flux-inpaint
